@@ -39,11 +39,30 @@ pip list
 ### ✅ Uso de ambientes virtuais
 ### Ambientes virtuais, como os criados por venvs, nos permitem manter as dependências de diferentes projetos. Isso é importante para evitar conflitos entre versões de pacotes.
 
+<br/>
+
 ### Exemplo de código:
 ```
 python3 -m venv myenv
 source myenv/bin/activate
 ```
+
+<br/>
+
+### ✅ Comandos do pip
+### Como um programador que está aprendendo Python e deseja gerenciar os pacotes do seu projeto, é importante conhecer alguns dos principais comandos do pip.
+
+<br/>
+
+### Comandos do pip
+```
+pip install nome_do_pacote
+pip uninstall nome_do_pacote
+pip list
+pip install --upgrade nome_do_pacote
+```
+
+
 
 
 <h3 align="center"> Made with <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> by Dalila...</h3>
