@@ -25,6 +25,14 @@
 ### ✅ O papel do Pip
 ### Pip é o gerenciador de pacotes do Python. Ele nos permite instalar, atualizar e remover pacotes facilmente. Ele se comunica  com o PyPI (Python Package Index), que é onde a maioria dos pacotes Python são armazenados.
 
+<br/>
+
+### Exemplo de código:
+```
+pip install numpy
+pip uninstall numpy
+pip list  
+```
 
 
 
