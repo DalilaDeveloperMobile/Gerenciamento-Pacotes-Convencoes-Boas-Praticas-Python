@@ -2,6 +2,8 @@
 ### Passos Iniciais Realizados Nesse Bootcamp Python AI Backend Developer. [dio_me](https://www.dio.me/)
 ### ✅Gerenciamento de Pacotes, Convenções e Boas Práticas Python.
 
+<br/>
+
 ## Objetivo Geral: 
 ### ✅Aprender a trabalhar com gerenciamento de pacotes em Python.
 ### ✅Boas práticas de codificação seguindo as convenções da PEP 8.
