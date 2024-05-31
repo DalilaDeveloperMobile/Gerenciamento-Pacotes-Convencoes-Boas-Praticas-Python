@@ -34,6 +34,12 @@ pip uninstall numpy
 pip list  
 ```
 
+<br/>
+
+### ✅ Uso de ambientes virtuais
+### Ambientes virtuais, como os criados por venvs, nos permitem manter as dependências de diferentes projetos. Isso é importante para evitar conflitos entre versões de pacotes.
+
+
 
 
 <h3 align="center"> Made with <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> by Dalila...</h3>
