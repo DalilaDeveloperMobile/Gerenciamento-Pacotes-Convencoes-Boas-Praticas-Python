@@ -8,9 +8,18 @@
 ### ✅Aprender a trabalhar com gerenciamento de pacotes em Python.
 ### ✅Boas práticas de codificação seguindo as convenções da PEP 8.
 
+<br/>
+
 ## Conteúdo: 
 ### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px">  Gerenciamento de pacotes.
 ### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px">  Boas práticas em Python.
+
+<br/>
+
+## Gerenciamento de pacotes:
+### ✅ O que são pacotes em Python?
+### Pacotes são módulos que podem ser instalados e utilizados em seus programas Python. Eles permitem que você utilize código que foi escrito por outras pessoas, economizando tempo e esforço.
+
 
 <h3 align="center"> Made with <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> by Dalila...</h3>
 <div align="center"  style="display: inline-block">
