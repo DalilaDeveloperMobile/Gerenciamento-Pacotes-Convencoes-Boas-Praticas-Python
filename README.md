@@ -95,6 +95,30 @@ poetry remove numpy
 
 <br/>
 
+## Boas práticas em Python:
+### ✅ Introdução
+### Python tem uma série de convenções e melhores práticas codificadas em PEPs (Propostas de Melhoria do Python). A mais conhecida destas é provavelmente a PEP 8, que cobre o estilo de codificação.
+
+<br/>
+
+### ✅ O que é PEP 8?
+### PEP 8 é o guia de estilo para codificação em Python. Ele inclui convenções sobre nomes de variáveis, uso de espaços em branco, comprimento da linha e muitas outras coisas que ajudam a manter o código Python consistente e legível.
+
+<br/>
+
+### ✅ Principais recomendações da PEP 8
+### Algumas das principais recomendações da PEP 8 incluem usar 4 espaços para a identação, limitar as linhas a 79 caracteres, usar nomes de variáveis em snake_case para funções e variáveis, e CamelCase para classes.
+
+<br/>
+
+### Exemplo de código:
+![image](https://github.com/DalilaDeveloperMobile/Gerenciamento-Pacotes-Convencoes-Boas-Praticas-Python/assets/29806802/3a7cb1d9-bc4d-4166-94f9-04ec61866578)
+
+
+
+
+ 
+
 <h3 align="center"> Made with <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> by Dalila...</h3>
 <div align="center"  style="display: inline-block">
   <a href="https://www.linkedin.com/in/dalila-cust%C3%B3dio-046076181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
