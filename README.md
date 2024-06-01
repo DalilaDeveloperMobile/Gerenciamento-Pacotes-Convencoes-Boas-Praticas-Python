@@ -62,8 +62,38 @@ pip list
 pip install --upgrade nome_do_pacote
 ```
 
+<br/>
 
+### ✅ Introdução ao pipenv
+### Pipenv é uma ferramenta de gerenciamento de pacotes que combina a gestão de dependências com a criação de ambiente virtual para seus projetos e adiciona/remove pacotes automaticamente do arquivo Pipfile conforme você instala e  desinstala pacotes.
 
+<br/>
+
+### Comandos do pipenv
+```
+pip install pipenv
+pipenv install numpy
+pipenv uninstall numpy
+pipenv lock
+```
+
+<br/>
+
+### ✅ Introdução ao poetry
+### Poetry é outra ferramenta de gerenciamento de dependências para Python que permite declarar as bibliotecas de que seu projeto depende e gerencia (instala/atualiza/remove) essas bibliotecas para você. Ela também suporta o empacotamento e a publicação de projetos no PyPI.
+
+<br/>
+
+### Comandos do poetry
+```
+pip install poetry
+poetry new myproject
+cd myproject
+poetry add numpy
+poetry remove numpy
+```
+
+<br/>
 
 <h3 align="center"> Made with <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> by Dalila...</h3>
 <div align="center"  style="display: inline-block">
