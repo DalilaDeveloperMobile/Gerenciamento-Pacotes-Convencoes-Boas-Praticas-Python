@@ -114,10 +114,37 @@ poetry remove numpy
 ### Exemplo de código:
 ![image](https://github.com/DalilaDeveloperMobile/Gerenciamento-Pacotes-Convencoes-Boas-Praticas-Python/assets/29806802/3a7cb1d9-bc4d-4166-94f9-04ec61866578)
 
+<br/>
 
+### ✅ Uso de ferramentas de checagem de estilo
+### Para nos ajudar a seguir as recomendações da PEP 8, podemos usar ferramentas de checagem de estilo como flake8. Essas ferramentas verificam nosso código e nos informam onde estamos desviando do guia de estilo.
 
+<br/>
 
- 
+### Exemplo de código:
+![image](https://github.com/DalilaDeveloperMobile/Gerenciamento-Pacotes-Convencoes-Boas-Praticas-Python/assets/29806802/6cf43d35-5bf2-4303-bef3-222c7265da2d)
+
+<br/>
+
+### ✅ Formatação automática de código
+### Black é uma ferramenta de formatação de código Python que segue a filosofia "formato único". Black reformata todo o seu arquivo em um estilo consistente, simplificando a tarefa de manter o código em conformidade com a PEP 8.
+
+<br/>
+
+### Exemplo de código:
+![image](https://github.com/DalilaDeveloperMobile/Gerenciamento-Pacotes-Convencoes-Boas-Praticas-Python/assets/29806802/b1836093-2bdc-4b17-b439-7f46fa6a687b)
+
+<br/>
+
+### ✅ Organização de imports com isort
+### Isort é uma ferramenta Python para classificar importações alfabeticamente e separá-las automaticamente em seções. Ele proporciona uma maneira rápida e fácil de ordenar e categorizar suas importações.
+
+<br/>
+
+### Exemplo de código:
+![image](https://github.com/DalilaDeveloperMobile/Gerenciamento-Pacotes-Convencoes-Boas-Praticas-Python/assets/29806802/a92a089c-ee4e-4408-aa9f-de75d9d86797)
+
+<br/>
 
 <h3 align="center"> Made with <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> by Dalila...</h3>
 <div align="center"  style="display: inline-block">
